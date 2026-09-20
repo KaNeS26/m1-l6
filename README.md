@@ -2,6 +2,7 @@
 Recicle bot, in <y.py> file, knows how to recycle some materials
 
 Currently avaliable:
+
 🔵Paper: write !paper to know about it
 
 🔴Plastic: write !plastic to know about it
